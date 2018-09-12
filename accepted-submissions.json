@@ -3,7 +3,7 @@
   {
    "lastAccept": 1536787403, 
    "pos": 1, 
-   "score": 2688, 
+   "score": 2676, 
    "taskStats": {
     "bonus_regras": {
      "points": 435, 
@@ -22,7 +22,7 @@
      "time": 1536723337
     }, 
     "impossible": {
-     "points": 406, 
+     "points": 394, 
      "time": 1536724754
     }, 
     "recon": {
@@ -35,7 +35,7 @@
   {
    "lastAccept": 1536787732, 
    "pos": 2, 
-   "score": 2188, 
+   "score": 2176, 
    "taskStats": {
     "bonus_regras": {
      "points": 435, 
@@ -50,7 +50,7 @@
      "time": 1536724747
     }, 
     "impossible": {
-     "points": 406, 
+     "points": 394, 
      "time": 1536724799
     }, 
     "recon": {
@@ -63,7 +63,7 @@
   {
    "lastAccept": 1536790054, 
    "pos": 3, 
-   "score": 1714, 
+   "score": 1702, 
    "taskStats": {
     "bonus_regras": {
      "points": 435, 
@@ -78,7 +78,7 @@
      "time": 1536726877
     }, 
     "impossible": {
-     "points": 406, 
+     "points": 394, 
      "time": 1536724035
     }
    }, 
@@ -87,7 +87,7 @@
   {
    "lastAccept": 1536788231, 
    "pos": 4, 
-   "score": 1261, 
+   "score": 1249, 
    "taskStats": {
     "bonus_regras": {
      "points": 435, 
@@ -98,7 +98,7 @@
      "time": 1536755910
     }, 
     "impossible": {
-     "points": 406, 
+     "points": 394, 
      "time": 1536730355
     }
    }, 
@@ -107,14 +107,14 @@
   {
    "lastAccept": 1536786153, 
    "pos": 5, 
-   "score": 826, 
+   "score": 814, 
    "taskStats": {
     "bonus_tlgrm": {
      "points": 420, 
      "time": 1536786153
     }, 
     "impossible": {
-     "points": 406, 
+     "points": 394, 
      "time": 1536785255
     }
    }, 
@@ -123,14 +123,26 @@
   {
    "lastAccept": 1536730403, 
    "pos": 6, 
-   "score": 406, 
+   "score": 394, 
    "taskStats": {
     "impossible": {
-     "points": 406, 
+     "points": 394, 
      "time": 1536730403
     }
    }, 
    "team": "Gs2W"
+  }, 
+  {
+   "lastAccept": 1536794279, 
+   "pos": 7, 
+   "score": 394, 
+   "taskStats": {
+    "impossible": {
+     "points": 394, 
+     "time": 1536794279
+    }
+   }, 
+   "team": "Z3r0OR1"
   }
  ], 
  "tasks": [
