@@ -3,10 +3,10 @@
   {
    "lastAccept": 1536787403, 
    "pos": 1, 
-   "score": 2768, 
+   "score": 2742, 
    "taskStats": {
     "bonus_regras": {
-     "points": 500, 
+     "points": 474, 
      "time": 1536787403
     }, 
     "bonus_site": {
@@ -33,10 +33,14 @@
    "team": "Sons Of Catra"
   }, 
   {
-   "lastAccept": 1536780570, 
+   "lastAccept": 1536787732, 
    "pos": 2, 
-   "score": 1768, 
+   "score": 2242, 
    "taskStats": {
+    "bonus_regras": {
+     "points": 474, 
+     "time": 1536787732
+    }, 
     "bonus_tlgrm": {
      "points": 435, 
      "time": 1536759234
