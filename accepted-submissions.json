@@ -3,7 +3,7 @@
   {
    "lastAccept": 1536780570, 
    "pos": 1, 
-   "score": 1826, 
+   "score": 1812, 
    "taskStats": {
     "bonus_tlgrm": {
      "points": 453, 
@@ -14,7 +14,7 @@
      "time": 1536724747
     }, 
     "impossible": {
-     "points": 420, 
+     "points": 406, 
      "time": 1536724799
     }, 
     "recon": {
@@ -27,7 +27,7 @@
   {
    "lastAccept": 1536775493, 
    "pos": 2, 
-   "score": 1326, 
+   "score": 1312, 
    "taskStats": {
     "bonus_tlgrm": {
      "points": 453, 
@@ -38,7 +38,7 @@
      "time": 1536723337
     }, 
     "impossible": {
-     "points": 420, 
+     "points": 406, 
      "time": 1536724754
     }
    }, 
@@ -47,14 +47,14 @@
   {
    "lastAccept": 1536726877, 
    "pos": 3, 
-   "score": 873, 
+   "score": 859, 
    "taskStats": {
     "glorious_ducks": {
      "points": 453, 
      "time": 1536726877
     }, 
     "impossible": {
-     "points": 420, 
+     "points": 406, 
      "time": 1536724035
     }
    }, 
@@ -63,14 +63,14 @@
   {
    "lastAccept": 1536755910, 
    "pos": 4, 
-   "score": 873, 
+   "score": 859, 
    "taskStats": {
     "bonus_tlgrm": {
      "points": 453, 
      "time": 1536755910
     }, 
     "impossible": {
-     "points": 420, 
+     "points": 406, 
      "time": 1536730355
     }
    }, 
@@ -79,14 +79,26 @@
   {
    "lastAccept": 1536730403, 
    "pos": 5, 
-   "score": 420, 
+   "score": 406, 
    "taskStats": {
     "impossible": {
-     "points": 420, 
+     "points": 406, 
      "time": 1536730403
     }
    }, 
    "team": "Gs2W"
+  }, 
+  {
+   "lastAccept": 1536785255, 
+   "pos": 6, 
+   "score": 406, 
+   "taskStats": {
+    "impossible": {
+     "points": 406, 
+     "time": 1536785255
+    }
+   }, 
+   "team": "ximimi"
   }
  ], 
  "tasks": [
