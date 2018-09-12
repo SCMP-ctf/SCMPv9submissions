@@ -11,9 +11,22 @@
     }
    }, 
    "team": "Sons Of Catra"
+  }, 
+  {
+   "lastAccept": 1536724035, 
+   "pos": 2, 
+   "score": 500, 
+   "taskStats": {
+    "impossible": {
+     "points": 500, 
+     "time": 1536724035
+    }
+   }, 
+   "team": "Gotta Catch' Em All"
   }
  ], 
  "tasks": [
-  "glorious_ducks"
+  "glorious_ducks", 
+  "impossible"
  ]
 }
