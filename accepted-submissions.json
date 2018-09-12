@@ -1,0 +1,19 @@
+{
+ "standings": [
+  {
+   "lastAccept": 1536723337, 
+   "pos": 1, 
+   "score": 500, 
+   "taskStats": {
+    "glorious_ducks": {
+     "points": 500, 
+     "time": 1536723337
+    }
+   }, 
+   "team": "Sons Of Catra"
+  }
+ ], 
+ "tasks": [
+  "glorious_ducks"
+ ]
+}
