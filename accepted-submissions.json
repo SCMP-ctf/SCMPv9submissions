@@ -3,7 +3,7 @@
   {
    "lastAccept": 1536780570, 
    "pos": 1, 
-   "score": 1812, 
+   "score": 1786, 
    "taskStats": {
     "bonus_tlgrm": {
      "points": 453, 
@@ -18,16 +18,16 @@
      "time": 1536724799
     }, 
     "recon": {
-     "points": 500, 
+     "points": 474, 
      "time": 1536780570
     }
    }, 
    "team": "Discipulos do Thoty"
   }, 
   {
-   "lastAccept": 1536775493, 
+   "lastAccept": 1536785447, 
    "pos": 2, 
-   "score": 1312, 
+   "score": 1786, 
    "taskStats": {
     "bonus_tlgrm": {
      "points": 453, 
@@ -40,6 +40,10 @@
     "impossible": {
      "points": 406, 
      "time": 1536724754
+    }, 
+    "recon": {
+     "points": 474, 
+     "time": 1536785447
     }
    }, 
    "team": "Sons Of Catra"
