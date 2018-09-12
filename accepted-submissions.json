@@ -3,7 +3,7 @@
   {
    "lastAccept": 1536787403, 
    "pos": 1, 
-   "score": 2703, 
+   "score": 2688, 
    "taskStats": {
     "bonus_regras": {
      "points": 435, 
@@ -14,7 +14,7 @@
      "time": 1536787311
     }, 
     "bonus_tlgrm": {
-     "points": 435, 
+     "points": 420, 
      "time": 1536775493
     }, 
     "glorious_ducks": {
@@ -35,14 +35,14 @@
   {
    "lastAccept": 1536787732, 
    "pos": 2, 
-   "score": 2203, 
+   "score": 2188, 
    "taskStats": {
     "bonus_regras": {
      "points": 435, 
      "time": 1536787732
     }, 
     "bonus_tlgrm": {
-     "points": 435, 
+     "points": 420, 
      "time": 1536759234
     }, 
     "glorious_ducks": {
@@ -61,13 +61,17 @@
    "team": "Discipulos do Thoty"
   }, 
   {
-   "lastAccept": 1536789961, 
+   "lastAccept": 1536790054, 
    "pos": 3, 
-   "score": 1294, 
+   "score": 1714, 
    "taskStats": {
     "bonus_regras": {
      "points": 435, 
      "time": 1536789961
+    }, 
+    "bonus_tlgrm": {
+     "points": 420, 
+     "time": 1536790054
     }, 
     "glorious_ducks": {
      "points": 453, 
@@ -83,14 +87,14 @@
   {
    "lastAccept": 1536788231, 
    "pos": 4, 
-   "score": 1276, 
+   "score": 1261, 
    "taskStats": {
     "bonus_regras": {
      "points": 435, 
      "time": 1536788231
     }, 
     "bonus_tlgrm": {
-     "points": 435, 
+     "points": 420, 
      "time": 1536755910
     }, 
     "impossible": {
@@ -103,10 +107,10 @@
   {
    "lastAccept": 1536786153, 
    "pos": 5, 
-   "score": 841, 
+   "score": 826, 
    "taskStats": {
     "bonus_tlgrm": {
-     "points": 435, 
+     "points": 420, 
      "time": 1536786153
     }, 
     "impossible": {
