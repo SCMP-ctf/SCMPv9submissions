@@ -3,42 +3,46 @@
   {
    "lastAccept": 1536724754, 
    "pos": 1, 
-   "score": 948, 
+   "score": 927, 
    "taskStats": {
     "glorious_ducks": {
      "points": 474, 
      "time": 1536723337
     }, 
     "impossible": {
-     "points": 474, 
+     "points": 453, 
      "time": 1536724754
     }
    }, 
    "team": "Sons Of Catra"
   }, 
   {
-   "lastAccept": 1536724035, 
+   "lastAccept": 1536724799, 
    "pos": 2, 
-   "score": 474, 
-   "taskStats": {
-    "impossible": {
-     "points": 474, 
-     "time": 1536724035
-    }
-   }, 
-   "team": "Gotta Catch' Em All"
-  }, 
-  {
-   "lastAccept": 1536724747, 
-   "pos": 3, 
-   "score": 474, 
+   "score": 927, 
    "taskStats": {
     "glorious_ducks": {
      "points": 474, 
      "time": 1536724747
+    }, 
+    "impossible": {
+     "points": 453, 
+     "time": 1536724799
     }
    }, 
    "team": "Discipulos do Thoty"
+  }, 
+  {
+   "lastAccept": 1536724035, 
+   "pos": 3, 
+   "score": 453, 
+   "taskStats": {
+    "impossible": {
+     "points": 453, 
+     "time": 1536724035
+    }
+   }, 
+   "team": "Gotta Catch' Em All"
   }
  ], 
  "tasks": [
