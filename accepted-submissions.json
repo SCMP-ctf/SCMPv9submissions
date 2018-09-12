@@ -1,28 +1,32 @@
 {
  "standings": [
   {
-   "lastAccept": 1536724035, 
+   "lastAccept": 1536724754, 
    "pos": 1, 
-   "score": 500, 
-   "taskStats": {
-    "impossible": {
-     "points": 500, 
-     "time": 1536724035
-    }
-   }, 
-   "team": "Gotta Catch' Em All"
-  }, 
-  {
-   "lastAccept": 1536723337, 
-   "pos": 2, 
-   "score": 474, 
+   "score": 948, 
    "taskStats": {
     "glorious_ducks": {
      "points": 474, 
      "time": 1536723337
+    }, 
+    "impossible": {
+     "points": 474, 
+     "time": 1536724754
     }
    }, 
    "team": "Sons Of Catra"
+  }, 
+  {
+   "lastAccept": 1536724035, 
+   "pos": 2, 
+   "score": 474, 
+   "taskStats": {
+    "impossible": {
+     "points": 474, 
+     "time": 1536724035
+    }
+   }, 
+   "team": "Gotta Catch' Em All"
   }, 
   {
    "lastAccept": 1536724747, 
