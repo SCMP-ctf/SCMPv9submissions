@@ -1,20 +1,8 @@
 {
  "standings": [
   {
-   "lastAccept": 1536723337, 
-   "pos": 1, 
-   "score": 500, 
-   "taskStats": {
-    "glorious_ducks": {
-     "points": 500, 
-     "time": 1536723337
-    }
-   }, 
-   "team": "Sons Of Catra"
-  }, 
-  {
    "lastAccept": 1536724035, 
-   "pos": 2, 
+   "pos": 1, 
    "score": 500, 
    "taskStats": {
     "impossible": {
@@ -23,6 +11,30 @@
     }
    }, 
    "team": "Gotta Catch' Em All"
+  }, 
+  {
+   "lastAccept": 1536723337, 
+   "pos": 2, 
+   "score": 474, 
+   "taskStats": {
+    "glorious_ducks": {
+     "points": 474, 
+     "time": 1536723337
+    }
+   }, 
+   "team": "Sons Of Catra"
+  }, 
+  {
+   "lastAccept": 1536724747, 
+   "pos": 3, 
+   "score": 474, 
+   "taskStats": {
+    "glorious_ducks": {
+     "points": 474, 
+     "time": 1536724747
+    }
+   }, 
+   "team": "Discipulos do Thoty"
   }
  ], 
  "tasks": [
