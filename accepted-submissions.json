@@ -3,10 +3,10 @@
   {
    "lastAccept": 1536724754, 
    "pos": 1, 
-   "score": 927, 
+   "score": 906, 
    "taskStats": {
     "glorious_ducks": {
-     "points": 474, 
+     "points": 453, 
      "time": 1536723337
     }, 
     "impossible": {
@@ -19,10 +19,10 @@
   {
    "lastAccept": 1536724799, 
    "pos": 2, 
-   "score": 927, 
+   "score": 906, 
    "taskStats": {
     "glorious_ducks": {
-     "points": 474, 
+     "points": 453, 
      "time": 1536724747
     }, 
     "impossible": {
@@ -33,10 +33,14 @@
    "team": "Discipulos do Thoty"
   }, 
   {
-   "lastAccept": 1536724035, 
+   "lastAccept": 1536726877, 
    "pos": 3, 
-   "score": 453, 
+   "score": 906, 
    "taskStats": {
+    "glorious_ducks": {
+     "points": 453, 
+     "time": 1536726877
+    }, 
     "impossible": {
      "points": 453, 
      "time": 1536724035
