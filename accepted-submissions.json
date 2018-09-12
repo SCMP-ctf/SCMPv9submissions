@@ -3,14 +3,14 @@
   {
    "lastAccept": 1536724754, 
    "pos": 1, 
-   "score": 888, 
+   "score": 873, 
    "taskStats": {
     "glorious_ducks": {
      "points": 453, 
      "time": 1536723337
     }, 
     "impossible": {
-     "points": 435, 
+     "points": 420, 
      "time": 1536724754
     }
    }, 
@@ -19,14 +19,14 @@
   {
    "lastAccept": 1536724799, 
    "pos": 2, 
-   "score": 888, 
+   "score": 873, 
    "taskStats": {
     "glorious_ducks": {
      "points": 453, 
      "time": 1536724747
     }, 
     "impossible": {
-     "points": 435, 
+     "points": 420, 
      "time": 1536724799
     }
    }, 
@@ -35,14 +35,14 @@
   {
    "lastAccept": 1536726877, 
    "pos": 3, 
-   "score": 888, 
+   "score": 873, 
    "taskStats": {
     "glorious_ducks": {
      "points": 453, 
      "time": 1536726877
     }, 
     "impossible": {
-     "points": 435, 
+     "points": 420, 
      "time": 1536724035
     }
    }, 
@@ -51,14 +51,26 @@
   {
    "lastAccept": 1536730355, 
    "pos": 4, 
-   "score": 435, 
+   "score": 420, 
    "taskStats": {
     "impossible": {
-     "points": 435, 
+     "points": 420, 
      "time": 1536730355
     }
    }, 
    "team": "CAPJr"
+  }, 
+  {
+   "lastAccept": 1536730403, 
+   "pos": 5, 
+   "score": 420, 
+   "taskStats": {
+    "impossible": {
+     "points": 420, 
+     "time": 1536730403
+    }
+   }, 
+   "team": "Gs2W"
   }
  ], 
  "tasks": [
