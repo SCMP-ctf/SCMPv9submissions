@@ -3,10 +3,10 @@
   {
    "lastAccept": 1536787403, 
    "pos": 1, 
-   "score": 2742, 
+   "score": 2721, 
    "taskStats": {
     "bonus_regras": {
-     "points": 474, 
+     "points": 453, 
      "time": 1536787403
     }, 
     "bonus_site": {
@@ -35,10 +35,10 @@
   {
    "lastAccept": 1536787732, 
    "pos": 2, 
-   "score": 2242, 
+   "score": 2221, 
    "taskStats": {
     "bonus_regras": {
-     "points": 474, 
+     "points": 453, 
      "time": 1536787732
     }, 
     "bonus_tlgrm": {
@@ -61,8 +61,28 @@
    "team": "Discipulos do Thoty"
   }, 
   {
-   "lastAccept": 1536726877, 
+   "lastAccept": 1536788231, 
    "pos": 3, 
+   "score": 1294, 
+   "taskStats": {
+    "bonus_regras": {
+     "points": 453, 
+     "time": 1536788231
+    }, 
+    "bonus_tlgrm": {
+     "points": 435, 
+     "time": 1536755910
+    }, 
+    "impossible": {
+     "points": 406, 
+     "time": 1536730355
+    }
+   }, 
+   "team": "CAPJr"
+  }, 
+  {
+   "lastAccept": 1536726877, 
+   "pos": 4, 
    "score": 859, 
    "taskStats": {
     "glorious_ducks": {
@@ -75,22 +95,6 @@
     }
    }, 
    "team": "Gotta Catch' Em All"
-  }, 
-  {
-   "lastAccept": 1536755910, 
-   "pos": 4, 
-   "score": 841, 
-   "taskStats": {
-    "bonus_tlgrm": {
-     "points": 435, 
-     "time": 1536755910
-    }, 
-    "impossible": {
-     "points": 406, 
-     "time": 1536730355
-    }
-   }, 
-   "team": "CAPJr"
   }, 
   {
    "lastAccept": 1536786153, 
