@@ -1,10 +1,14 @@
 {
  "standings": [
   {
-   "lastAccept": 1536787311, 
+   "lastAccept": 1536787403, 
    "pos": 1, 
-   "score": 2268, 
+   "score": 2768, 
    "taskStats": {
+    "bonus_regras": {
+     "points": 500, 
+     "time": 1536787403
+    }, 
     "bonus_site": {
      "points": 500, 
      "time": 1536787311
@@ -118,6 +122,7 @@
   "impossible", 
   "bonus_tlgrm", 
   "recon", 
-  "bonus_site"
+  "bonus_site", 
+  "bonus_regras"
  ]
 }
