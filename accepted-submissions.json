@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1536759234, 
+   "lastAccept": 1536780570, 
    "pos": 1, 
-   "score": 1326, 
+   "score": 1826, 
    "taskStats": {
     "bonus_tlgrm": {
      "points": 453, 
@@ -16,6 +16,10 @@
     "impossible": {
      "points": 420, 
      "time": 1536724799
+    }, 
+    "recon": {
+     "points": 500, 
+     "time": 1536780570
     }
    }, 
    "team": "Discipulos do Thoty"
@@ -88,6 +92,7 @@
  "tasks": [
   "glorious_ducks", 
   "impossible", 
-  "bonus_tlgrm"
+  "bonus_tlgrm", 
+  "recon"
  ]
 }
