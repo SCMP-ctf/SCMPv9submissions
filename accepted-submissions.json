@@ -3,14 +3,14 @@
   {
    "lastAccept": 1536724754, 
    "pos": 1, 
-   "score": 906, 
+   "score": 888, 
    "taskStats": {
     "glorious_ducks": {
      "points": 453, 
      "time": 1536723337
     }, 
     "impossible": {
-     "points": 453, 
+     "points": 435, 
      "time": 1536724754
     }
    }, 
@@ -19,14 +19,14 @@
   {
    "lastAccept": 1536724799, 
    "pos": 2, 
-   "score": 906, 
+   "score": 888, 
    "taskStats": {
     "glorious_ducks": {
      "points": 453, 
      "time": 1536724747
     }, 
     "impossible": {
-     "points": 453, 
+     "points": 435, 
      "time": 1536724799
     }
    }, 
@@ -35,18 +35,30 @@
   {
    "lastAccept": 1536726877, 
    "pos": 3, 
-   "score": 906, 
+   "score": 888, 
    "taskStats": {
     "glorious_ducks": {
      "points": 453, 
      "time": 1536726877
     }, 
     "impossible": {
-     "points": 453, 
+     "points": 435, 
      "time": 1536724035
     }
    }, 
    "team": "Gotta Catch' Em All"
+  }, 
+  {
+   "lastAccept": 1536730355, 
+   "pos": 4, 
+   "score": 435, 
+   "taskStats": {
+    "impossible": {
+     "points": 435, 
+     "time": 1536730355
+    }
+   }, 
+   "team": "CAPJr"
   }
  ], 
  "tasks": [
