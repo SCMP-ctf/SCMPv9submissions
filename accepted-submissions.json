@@ -3,7 +3,7 @@
   {
    "lastAccept": 1536787403, 
    "pos": 1, 
-   "score": 2661, 
+   "score": 2647, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -14,7 +14,7 @@
      "time": 1536787311
     }, 
     "bonus_tlgrm": {
-     "points": 420, 
+     "points": 406, 
      "time": 1536775493
     }, 
     "glorious_ducks": {
@@ -35,14 +35,14 @@
   {
    "lastAccept": 1536787732, 
    "pos": 2, 
-   "score": 2161, 
+   "score": 2147, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
      "time": 1536787732
     }, 
     "bonus_tlgrm": {
-     "points": 420, 
+     "points": 406, 
      "time": 1536759234
     }, 
     "glorious_ducks": {
@@ -63,14 +63,14 @@
   {
    "lastAccept": 1536790054, 
    "pos": 3, 
-   "score": 1687, 
+   "score": 1673, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
      "time": 1536789961
     }, 
     "bonus_tlgrm": {
-     "points": 420, 
+     "points": 406, 
      "time": 1536790054
     }, 
     "glorious_ducks": {
@@ -87,14 +87,14 @@
   {
    "lastAccept": 1536788231, 
    "pos": 4, 
-   "score": 1234, 
+   "score": 1220, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
      "time": 1536788231
     }, 
     "bonus_tlgrm": {
-     "points": 420, 
+     "points": 406, 
      "time": 1536755910
     }, 
     "impossible": {
@@ -105,12 +105,28 @@
    "team": "CAPJr"
   }, 
   {
-   "lastAccept": 1536786153, 
+   "lastAccept": 1536800801, 
    "pos": 5, 
-   "score": 814, 
+   "score": 826, 
+   "taskStats": {
+    "bonus_regras": {
+     "points": 420, 
+     "time": 1536800743
+    }, 
+    "bonus_tlgrm": {
+     "points": 406, 
+     "time": 1536800801
+    }
+   }, 
+   "team": "WIMF"
+  }, 
+  {
+   "lastAccept": 1536786153, 
+   "pos": 6, 
+   "score": 800, 
    "taskStats": {
     "bonus_tlgrm": {
-     "points": 420, 
+     "points": 406, 
      "time": 1536786153
     }, 
     "impossible": {
@@ -119,18 +135,6 @@
     }
    }, 
    "team": "ximimi"
-  }, 
-  {
-   "lastAccept": 1536800743, 
-   "pos": 6, 
-   "score": 420, 
-   "taskStats": {
-    "bonus_regras": {
-     "points": 420, 
-     "time": 1536800743
-    }
-   }, 
-   "team": "WIMF"
   }, 
   {
    "lastAccept": 1536730403, 
