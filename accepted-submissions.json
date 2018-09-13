@@ -37,10 +37,14 @@
    "team": "Sons Of Catra"
   }, 
   {
-   "lastAccept": 1536787732, 
+   "lastAccept": 1536847503, 
    "pos": 2, 
-   "score": 2044, 
+   "score": 2544, 
    "taskStats": {
+    "aidemim": {
+     "points": 500, 
+     "time": 1536847503
+    }, 
     "bonus_regras": {
      "points": 420, 
      "time": 1536787732
@@ -216,6 +220,7 @@
   "recon", 
   "bonus_site", 
   "bonus_regras", 
-  "ticktock"
+  "ticktock", 
+  "aidemim"
  ]
 }
