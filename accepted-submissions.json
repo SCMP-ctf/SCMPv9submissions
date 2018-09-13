@@ -41,10 +41,14 @@
    "team": "Discipulos do Thoty"
   }, 
   {
-   "lastAccept": 1536839500, 
+   "lastAccept": 1536878373, 
    "pos": 2, 
-   "score": 2963, 
+   "score": 3463, 
    "taskStats": {
+    "QuickResponses": {
+     "points": 500, 
+     "time": 1536878373
+    }, 
     "bonus_regras": {
      "points": 406, 
      "time": 1536787403
@@ -246,6 +250,7 @@
   "bonus_regras", 
   "ticktock", 
   "aidemim", 
-  "the_user_deep_down"
+  "the_user_deep_down", 
+  "QuickResponses"
  ]
 }
