@@ -3,7 +3,7 @@
   {
    "lastAccept": 1536787403, 
    "pos": 1, 
-   "score": 2647, 
+   "score": 2629, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -18,7 +18,7 @@
      "time": 1536775493
     }, 
     "glorious_ducks": {
-     "points": 453, 
+     "points": 435, 
      "time": 1536723337
     }, 
     "impossible": {
@@ -35,7 +35,7 @@
   {
    "lastAccept": 1536787732, 
    "pos": 2, 
-   "score": 2147, 
+   "score": 2129, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -46,7 +46,7 @@
      "time": 1536759234
     }, 
     "glorious_ducks": {
-     "points": 453, 
+     "points": 435, 
      "time": 1536724747
     }, 
     "impossible": {
@@ -63,7 +63,7 @@
   {
    "lastAccept": 1536790054, 
    "pos": 3, 
-   "score": 1673, 
+   "score": 1655, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -74,7 +74,7 @@
      "time": 1536790054
     }, 
     "glorious_ducks": {
-     "points": 453, 
+     "points": 435, 
      "time": 1536726877
     }, 
     "impossible": {
@@ -85,9 +85,9 @@
    "team": "Gotta Catch' Em All"
   }, 
   {
-   "lastAccept": 1536788231, 
+   "lastAccept": 1536801720, 
    "pos": 4, 
-   "score": 1220, 
+   "score": 1655, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -96,6 +96,10 @@
     "bonus_tlgrm": {
      "points": 406, 
      "time": 1536755910
+    }, 
+    "glorious_ducks": {
+     "points": 435, 
+     "time": 1536801720
     }, 
     "impossible": {
      "points": 394, 
