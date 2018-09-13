@@ -3,14 +3,14 @@
   {
    "lastAccept": 1536852774, 
    "pos": 1, 
-   "score": 3477, 
+   "score": 3463, 
    "taskStats": {
     "aidemim": {
      "points": 500, 
      "time": 1536847503
     }, 
     "bonus_regras": {
-     "points": 420, 
+     "points": 406, 
      "time": 1536787732
     }, 
     "bonus_site": {
@@ -43,10 +43,10 @@
   {
    "lastAccept": 1536839500, 
    "pos": 2, 
-   "score": 2977, 
+   "score": 2963, 
    "taskStats": {
     "bonus_regras": {
-     "points": 420, 
+     "points": 406, 
      "time": 1536787403
     }, 
     "bonus_site": {
@@ -79,10 +79,10 @@
   {
    "lastAccept": 1536804946, 
    "pos": 3, 
-   "score": 2003, 
+   "score": 1989, 
    "taskStats": {
     "bonus_regras": {
-     "points": 420, 
+     "points": 406, 
      "time": 1536788231
     }, 
     "bonus_tlgrm": {
@@ -105,12 +105,40 @@
    "team": "CAPJr"
   }, 
   {
-   "lastAccept": 1536790054, 
+   "lastAccept": 1536856599, 
    "pos": 4, 
-   "score": 1597, 
+   "score": 1989, 
    "taskStats": {
     "bonus_regras": {
+     "points": 406, 
+     "time": 1536856599
+    }, 
+    "bonus_tlgrm": {
+     "points": 394, 
+     "time": 1536855311
+    }, 
+    "glorious_ducks": {
      "points": 420, 
+     "time": 1536845488
+    }, 
+    "impossible": {
+     "points": 363, 
+     "time": 1536847459
+    }, 
+    "recon": {
+     "points": 406, 
+     "time": 1536854627
+    }
+   }, 
+   "team": "RTFM"
+  }, 
+  {
+   "lastAccept": 1536790054, 
+   "pos": 5, 
+   "score": 1583, 
+   "taskStats": {
+    "bonus_regras": {
+     "points": 406, 
      "time": 1536789961
     }, 
     "bonus_tlgrm": {
@@ -130,11 +158,11 @@
   }, 
   {
    "lastAccept": 1536848689, 
-   "pos": 5, 
-   "score": 1583, 
+   "pos": 6, 
+   "score": 1569, 
    "taskStats": {
     "bonus_regras": {
-     "points": 420, 
+     "points": 406, 
      "time": 1536800743
     }, 
     "bonus_tlgrm": {
@@ -151,30 +179,6 @@
     }
    }, 
    "team": "WIMF"
-  }, 
-  {
-   "lastAccept": 1536855311, 
-   "pos": 6, 
-   "score": 1583, 
-   "taskStats": {
-    "bonus_tlgrm": {
-     "points": 394, 
-     "time": 1536855311
-    }, 
-    "glorious_ducks": {
-     "points": 420, 
-     "time": 1536845488
-    }, 
-    "impossible": {
-     "points": 363, 
-     "time": 1536847459
-    }, 
-    "recon": {
-     "points": 406, 
-     "time": 1536854627
-    }
-   }, 
-   "team": "RTFM"
   }, 
   {
    "lastAccept": 1536841550, 
