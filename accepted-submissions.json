@@ -3,7 +3,7 @@
   {
    "lastAccept": 1536852774, 
    "pos": 1, 
-   "score": 3489, 
+   "score": 3477, 
    "taskStats": {
     "aidemim": {
      "points": 500, 
@@ -18,7 +18,7 @@
      "time": 1536852774
     }, 
     "bonus_tlgrm": {
-     "points": 406, 
+     "points": 394, 
      "time": 1536759234
     }, 
     "glorious_ducks": {
@@ -43,7 +43,7 @@
   {
    "lastAccept": 1536839500, 
    "pos": 2, 
-   "score": 2989, 
+   "score": 2977, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -54,7 +54,7 @@
      "time": 1536787311
     }, 
     "bonus_tlgrm": {
-     "points": 406, 
+     "points": 394, 
      "time": 1536775493
     }, 
     "glorious_ducks": {
@@ -79,14 +79,14 @@
   {
    "lastAccept": 1536804946, 
    "pos": 3, 
-   "score": 2015, 
+   "score": 2003, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
      "time": 1536788231
     }, 
     "bonus_tlgrm": {
-     "points": 406, 
+     "points": 394, 
      "time": 1536755910
     }, 
     "glorious_ducks": {
@@ -107,14 +107,14 @@
   {
    "lastAccept": 1536790054, 
    "pos": 4, 
-   "score": 1609, 
+   "score": 1597, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
      "time": 1536789961
     }, 
     "bonus_tlgrm": {
-     "points": 406, 
+     "points": 394, 
      "time": 1536790054
     }, 
     "glorious_ducks": {
@@ -131,14 +131,14 @@
   {
    "lastAccept": 1536848689, 
    "pos": 5, 
-   "score": 1595, 
+   "score": 1583, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
      "time": 1536800743
     }, 
     "bonus_tlgrm": {
-     "points": 406, 
+     "points": 394, 
      "time": 1536800801
     }, 
     "impossible": {
@@ -153,10 +153,14 @@
    "team": "WIMF"
   }, 
   {
-   "lastAccept": 1536854627, 
+   "lastAccept": 1536855311, 
    "pos": 6, 
-   "score": 1189, 
+   "score": 1583, 
    "taskStats": {
+    "bonus_tlgrm": {
+     "points": 394, 
+     "time": 1536855311
+    }, 
     "glorious_ducks": {
      "points": 420, 
      "time": 1536845488
@@ -175,10 +179,10 @@
   {
    "lastAccept": 1536841550, 
    "pos": 7, 
-   "score": 1175, 
+   "score": 1163, 
    "taskStats": {
     "bonus_tlgrm": {
-     "points": 406, 
+     "points": 394, 
      "time": 1536786153
     }, 
     "impossible": {
