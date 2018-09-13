@@ -3,7 +3,7 @@
   {
    "lastAccept": 1536839500, 
    "pos": 1, 
-   "score": 3044, 
+   "score": 3029, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -26,7 +26,7 @@
      "time": 1536724754
     }, 
     "recon": {
-     "points": 435, 
+     "points": 420, 
      "time": 1536785447
     }, 
     "ticktock": {
@@ -39,7 +39,7 @@
   {
    "lastAccept": 1536848137, 
    "pos": 2, 
-   "score": 3044, 
+   "score": 3029, 
    "taskStats": {
     "aidemim": {
      "points": 500, 
@@ -62,7 +62,7 @@
      "time": 1536724799
     }, 
     "recon": {
-     "points": 435, 
+     "points": 420, 
      "time": 1536780570
     }, 
     "the_user_deep_down": {
@@ -75,7 +75,7 @@
   {
    "lastAccept": 1536804946, 
    "pos": 3, 
-   "score": 2044, 
+   "score": 2029, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -94,7 +94,7 @@
      "time": 1536730355
     }, 
     "recon": {
-     "points": 435, 
+     "points": 420, 
      "time": 1536804946
     }
    }, 
@@ -125,29 +125,9 @@
    "team": "Gotta Catch' Em All"
   }, 
   {
-   "lastAccept": 1536841550, 
+   "lastAccept": 1536848689, 
    "pos": 5, 
-   "score": 1204, 
-   "taskStats": {
-    "bonus_tlgrm": {
-     "points": 406, 
-     "time": 1536786153
-    }, 
-    "impossible": {
-     "points": 363, 
-     "time": 1536785255
-    }, 
-    "recon": {
-     "points": 435, 
-     "time": 1536841550
-    }
-   }, 
-   "team": "ximimi"
-  }, 
-  {
-   "lastAccept": 1536801823, 
-   "pos": 6, 
-   "score": 1189, 
+   "score": 1609, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -160,9 +140,33 @@
     "impossible": {
      "points": 363, 
      "time": 1536801823
+    }, 
+    "recon": {
+     "points": 420, 
+     "time": 1536848689
     }
    }, 
    "team": "WIMF"
+  }, 
+  {
+   "lastAccept": 1536841550, 
+   "pos": 6, 
+   "score": 1189, 
+   "taskStats": {
+    "bonus_tlgrm": {
+     "points": 406, 
+     "time": 1536786153
+    }, 
+    "impossible": {
+     "points": 363, 
+     "time": 1536785255
+    }, 
+    "recon": {
+     "points": 420, 
+     "time": 1536841550
+    }
+   }, 
+   "team": "ximimi"
   }, 
   {
    "lastAccept": 1536847459, 
