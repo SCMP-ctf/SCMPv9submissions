@@ -3,7 +3,7 @@
   {
    "lastAccept": 1536839500, 
    "pos": 1, 
-   "score": 3069, 
+   "score": 3054, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -18,7 +18,7 @@
      "time": 1536775493
     }, 
     "glorious_ducks": {
-     "points": 435, 
+     "points": 420, 
      "time": 1536723337
     }, 
     "impossible": {
@@ -39,7 +39,7 @@
   {
    "lastAccept": 1536787732, 
    "pos": 2, 
-   "score": 2069, 
+   "score": 2054, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -50,7 +50,7 @@
      "time": 1536759234
     }, 
     "glorious_ducks": {
-     "points": 435, 
+     "points": 420, 
      "time": 1536724747
     }, 
     "impossible": {
@@ -67,7 +67,7 @@
   {
    "lastAccept": 1536804946, 
    "pos": 3, 
-   "score": 2069, 
+   "score": 2054, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -78,7 +78,7 @@
      "time": 1536755910
     }, 
     "glorious_ducks": {
-     "points": 435, 
+     "points": 420, 
      "time": 1536801720
     }, 
     "impossible": {
@@ -95,7 +95,7 @@
   {
    "lastAccept": 1536790054, 
    "pos": 4, 
-   "score": 1634, 
+   "score": 1619, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -106,7 +106,7 @@
      "time": 1536790054
     }, 
     "glorious_ducks": {
-     "points": 435, 
+     "points": 420, 
      "time": 1536726877
     }, 
     "impossible": {
@@ -157,8 +157,20 @@
    "team": "WIMF"
   }, 
   {
-   "lastAccept": 1536730403, 
+   "lastAccept": 1536845488, 
    "pos": 7, 
+   "score": 420, 
+   "taskStats": {
+    "glorious_ducks": {
+     "points": 420, 
+     "time": 1536845488
+    }
+   }, 
+   "team": "RTFM"
+  }, 
+  {
+   "lastAccept": 1536730403, 
+   "pos": 8, 
    "score": 373, 
    "taskStats": {
     "impossible": {
@@ -170,7 +182,7 @@
   }, 
   {
    "lastAccept": 1536794279, 
-   "pos": 8, 
+   "pos": 9, 
    "score": 373, 
    "taskStats": {
     "impossible": {
@@ -182,7 +194,7 @@
   }, 
   {
    "lastAccept": 1536805839, 
-   "pos": 9, 
+   "pos": 10, 
    "score": 373, 
    "taskStats": {
     "impossible": {
