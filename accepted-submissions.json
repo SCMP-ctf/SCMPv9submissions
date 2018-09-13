@@ -3,7 +3,7 @@
   {
    "lastAccept": 1536839500, 
    "pos": 1, 
-   "score": 3087, 
+   "score": 3069, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -26,7 +26,7 @@
      "time": 1536724754
     }, 
     "recon": {
-     "points": 453, 
+     "points": 435, 
      "time": 1536785447
     }, 
     "ticktock": {
@@ -39,7 +39,7 @@
   {
    "lastAccept": 1536787732, 
    "pos": 2, 
-   "score": 2087, 
+   "score": 2069, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -58,7 +58,7 @@
      "time": 1536724799
     }, 
     "recon": {
-     "points": 453, 
+     "points": 435, 
      "time": 1536780570
     }
    }, 
@@ -67,7 +67,7 @@
   {
    "lastAccept": 1536804946, 
    "pos": 3, 
-   "score": 2087, 
+   "score": 2069, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -86,7 +86,7 @@
      "time": 1536730355
     }, 
     "recon": {
-     "points": 453, 
+     "points": 435, 
      "time": 1536804946
     }
    }, 
@@ -117,8 +117,28 @@
    "team": "Gotta Catch' Em All"
   }, 
   {
-   "lastAccept": 1536801823, 
+   "lastAccept": 1536841550, 
    "pos": 5, 
+   "score": 1214, 
+   "taskStats": {
+    "bonus_tlgrm": {
+     "points": 406, 
+     "time": 1536786153
+    }, 
+    "impossible": {
+     "points": 373, 
+     "time": 1536785255
+    }, 
+    "recon": {
+     "points": 435, 
+     "time": 1536841550
+    }
+   }, 
+   "team": "ximimi"
+  }, 
+  {
+   "lastAccept": 1536801823, 
+   "pos": 6, 
    "score": 1199, 
    "taskStats": {
     "bonus_regras": {
@@ -135,22 +155,6 @@
     }
    }, 
    "team": "WIMF"
-  }, 
-  {
-   "lastAccept": 1536786153, 
-   "pos": 6, 
-   "score": 779, 
-   "taskStats": {
-    "bonus_tlgrm": {
-     "points": 406, 
-     "time": 1536786153
-    }, 
-    "impossible": {
-     "points": 373, 
-     "time": 1536785255
-    }
-   }, 
-   "team": "ximimi"
   }, 
   {
    "lastAccept": 1536730403, 
