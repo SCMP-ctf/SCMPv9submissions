@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1536787403, 
+   "lastAccept": 1536839500, 
    "pos": 1, 
-   "score": 2587, 
+   "score": 3087, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -28,6 +28,10 @@
     "recon": {
      "points": 453, 
      "time": 1536785447
+    }, 
+    "ticktock": {
+     "points": 500, 
+     "time": 1536839500
     }
    }, 
    "team": "Sons Of Catra"
@@ -191,6 +195,7 @@
   "bonus_tlgrm", 
   "recon", 
   "bonus_site", 
-  "bonus_regras"
+  "bonus_regras", 
+  "ticktock"
  ]
 }
