@@ -37,9 +37,9 @@
    "team": "Sons Of Catra"
   }, 
   {
-   "lastAccept": 1536847503, 
+   "lastAccept": 1536848137, 
    "pos": 2, 
-   "score": 2544, 
+   "score": 3044, 
    "taskStats": {
     "aidemim": {
      "points": 500, 
@@ -64,6 +64,10 @@
     "recon": {
      "points": 435, 
      "time": 1536780570
+    }, 
+    "the_user_deep_down": {
+     "points": 500, 
+     "time": 1536848137
     }
    }, 
    "team": "Discipulos do Thoty"
@@ -221,6 +225,7 @@
   "bonus_site", 
   "bonus_regras", 
   "ticktock", 
-  "aidemim"
+  "aidemim", 
+  "the_user_deep_down"
  ]
 }
