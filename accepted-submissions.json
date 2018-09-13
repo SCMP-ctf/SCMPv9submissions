@@ -3,7 +3,7 @@
   {
    "lastAccept": 1536852774, 
    "pos": 1, 
-   "score": 3503, 
+   "score": 3489, 
    "taskStats": {
     "aidemim": {
      "points": 500, 
@@ -30,7 +30,7 @@
      "time": 1536724799
     }, 
     "recon": {
-     "points": 420, 
+     "points": 406, 
      "time": 1536780570
     }, 
     "the_user_deep_down": {
@@ -43,7 +43,7 @@
   {
    "lastAccept": 1536839500, 
    "pos": 2, 
-   "score": 3003, 
+   "score": 2989, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -66,7 +66,7 @@
      "time": 1536724754
     }, 
     "recon": {
-     "points": 420, 
+     "points": 406, 
      "time": 1536785447
     }, 
     "ticktock": {
@@ -79,7 +79,7 @@
   {
    "lastAccept": 1536804946, 
    "pos": 3, 
-   "score": 2029, 
+   "score": 2015, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -98,7 +98,7 @@
      "time": 1536730355
     }, 
     "recon": {
-     "points": 420, 
+     "points": 406, 
      "time": 1536804946
     }
    }, 
@@ -131,7 +131,7 @@
   {
    "lastAccept": 1536848689, 
    "pos": 5, 
-   "score": 1609, 
+   "score": 1595, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -146,16 +146,36 @@
      "time": 1536801823
     }, 
     "recon": {
-     "points": 420, 
+     "points": 406, 
      "time": 1536848689
     }
    }, 
    "team": "WIMF"
   }, 
   {
-   "lastAccept": 1536841550, 
+   "lastAccept": 1536854627, 
    "pos": 6, 
    "score": 1189, 
+   "taskStats": {
+    "glorious_ducks": {
+     "points": 420, 
+     "time": 1536845488
+    }, 
+    "impossible": {
+     "points": 363, 
+     "time": 1536847459
+    }, 
+    "recon": {
+     "points": 406, 
+     "time": 1536854627
+    }
+   }, 
+   "team": "RTFM"
+  }, 
+  {
+   "lastAccept": 1536841550, 
+   "pos": 7, 
+   "score": 1175, 
    "taskStats": {
     "bonus_tlgrm": {
      "points": 406, 
@@ -166,27 +186,11 @@
      "time": 1536785255
     }, 
     "recon": {
-     "points": 420, 
+     "points": 406, 
      "time": 1536841550
     }
    }, 
    "team": "ximimi"
-  }, 
-  {
-   "lastAccept": 1536847459, 
-   "pos": 7, 
-   "score": 783, 
-   "taskStats": {
-    "glorious_ducks": {
-     "points": 420, 
-     "time": 1536845488
-    }, 
-    "impossible": {
-     "points": 363, 
-     "time": 1536847459
-    }
-   }, 
-   "team": "RTFM"
   }, 
   {
    "lastAccept": 1536730403, 
