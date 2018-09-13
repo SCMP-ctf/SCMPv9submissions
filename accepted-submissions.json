@@ -3,7 +3,7 @@
   {
    "lastAccept": 1536787403, 
    "pos": 1, 
-   "score": 2629, 
+   "score": 2618, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -22,7 +22,7 @@
      "time": 1536723337
     }, 
     "impossible": {
-     "points": 394, 
+     "points": 383, 
      "time": 1536724754
     }, 
     "recon": {
@@ -35,7 +35,7 @@
   {
    "lastAccept": 1536787732, 
    "pos": 2, 
-   "score": 2129, 
+   "score": 2118, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -50,7 +50,7 @@
      "time": 1536724747
     }, 
     "impossible": {
-     "points": 394, 
+     "points": 383, 
      "time": 1536724799
     }, 
     "recon": {
@@ -63,7 +63,7 @@
   {
    "lastAccept": 1536790054, 
    "pos": 3, 
-   "score": 1655, 
+   "score": 1644, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -78,7 +78,7 @@
      "time": 1536726877
     }, 
     "impossible": {
-     "points": 394, 
+     "points": 383, 
      "time": 1536724035
     }
    }, 
@@ -87,7 +87,7 @@
   {
    "lastAccept": 1536801720, 
    "pos": 4, 
-   "score": 1655, 
+   "score": 1644, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -102,16 +102,16 @@
      "time": 1536801720
     }, 
     "impossible": {
-     "points": 394, 
+     "points": 383, 
      "time": 1536730355
     }
    }, 
    "team": "CAPJr"
   }, 
   {
-   "lastAccept": 1536800801, 
+   "lastAccept": 1536801823, 
    "pos": 5, 
-   "score": 826, 
+   "score": 1209, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -120,6 +120,10 @@
     "bonus_tlgrm": {
      "points": 406, 
      "time": 1536800801
+    }, 
+    "impossible": {
+     "points": 383, 
+     "time": 1536801823
     }
    }, 
    "team": "WIMF"
@@ -127,14 +131,14 @@
   {
    "lastAccept": 1536786153, 
    "pos": 6, 
-   "score": 800, 
+   "score": 789, 
    "taskStats": {
     "bonus_tlgrm": {
      "points": 406, 
      "time": 1536786153
     }, 
     "impossible": {
-     "points": 394, 
+     "points": 383, 
      "time": 1536785255
     }
    }, 
@@ -143,10 +147,10 @@
   {
    "lastAccept": 1536730403, 
    "pos": 7, 
-   "score": 394, 
+   "score": 383, 
    "taskStats": {
     "impossible": {
-     "points": 394, 
+     "points": 383, 
      "time": 1536730403
     }
    }, 
@@ -155,10 +159,10 @@
   {
    "lastAccept": 1536794279, 
    "pos": 8, 
-   "score": 394, 
+   "score": 383, 
    "taskStats": {
     "impossible": {
-     "points": 394, 
+     "points": 383, 
      "time": 1536794279
     }
    }, 
