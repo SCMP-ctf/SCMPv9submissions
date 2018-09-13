@@ -3,7 +3,7 @@
   {
    "lastAccept": 1536839500, 
    "pos": 1, 
-   "score": 3054, 
+   "score": 3044, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -22,7 +22,7 @@
      "time": 1536723337
     }, 
     "impossible": {
-     "points": 373, 
+     "points": 363, 
      "time": 1536724754
     }, 
     "recon": {
@@ -39,7 +39,7 @@
   {
    "lastAccept": 1536787732, 
    "pos": 2, 
-   "score": 2054, 
+   "score": 2044, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -54,7 +54,7 @@
      "time": 1536724747
     }, 
     "impossible": {
-     "points": 373, 
+     "points": 363, 
      "time": 1536724799
     }, 
     "recon": {
@@ -67,7 +67,7 @@
   {
    "lastAccept": 1536804946, 
    "pos": 3, 
-   "score": 2054, 
+   "score": 2044, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -82,7 +82,7 @@
      "time": 1536801720
     }, 
     "impossible": {
-     "points": 373, 
+     "points": 363, 
      "time": 1536730355
     }, 
     "recon": {
@@ -95,7 +95,7 @@
   {
    "lastAccept": 1536790054, 
    "pos": 4, 
-   "score": 1619, 
+   "score": 1609, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -110,7 +110,7 @@
      "time": 1536726877
     }, 
     "impossible": {
-     "points": 373, 
+     "points": 363, 
      "time": 1536724035
     }
    }, 
@@ -119,14 +119,14 @@
   {
    "lastAccept": 1536841550, 
    "pos": 5, 
-   "score": 1214, 
+   "score": 1204, 
    "taskStats": {
     "bonus_tlgrm": {
      "points": 406, 
      "time": 1536786153
     }, 
     "impossible": {
-     "points": 373, 
+     "points": 363, 
      "time": 1536785255
     }, 
     "recon": {
@@ -139,7 +139,7 @@
   {
    "lastAccept": 1536801823, 
    "pos": 6, 
-   "score": 1199, 
+   "score": 1189, 
    "taskStats": {
     "bonus_regras": {
      "points": 420, 
@@ -150,20 +150,24 @@
      "time": 1536800801
     }, 
     "impossible": {
-     "points": 373, 
+     "points": 363, 
      "time": 1536801823
     }
    }, 
    "team": "WIMF"
   }, 
   {
-   "lastAccept": 1536845488, 
+   "lastAccept": 1536847459, 
    "pos": 7, 
-   "score": 420, 
+   "score": 783, 
    "taskStats": {
     "glorious_ducks": {
      "points": 420, 
      "time": 1536845488
+    }, 
+    "impossible": {
+     "points": 363, 
+     "time": 1536847459
     }
    }, 
    "team": "RTFM"
@@ -171,10 +175,10 @@
   {
    "lastAccept": 1536730403, 
    "pos": 8, 
-   "score": 373, 
+   "score": 363, 
    "taskStats": {
     "impossible": {
-     "points": 373, 
+     "points": 363, 
      "time": 1536730403
     }
    }, 
@@ -183,10 +187,10 @@
   {
    "lastAccept": 1536794279, 
    "pos": 9, 
-   "score": 373, 
+   "score": 363, 
    "taskStats": {
     "impossible": {
-     "points": 373, 
+     "points": 363, 
      "time": 1536794279
     }
    }, 
@@ -195,10 +199,10 @@
   {
    "lastAccept": 1536805839, 
    "pos": 10, 
-   "score": 373, 
+   "score": 363, 
    "taskStats": {
     "impossible": {
-     "points": 373, 
+     "points": 363, 
      "time": 1536805839
     }
    }, 
