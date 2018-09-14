@@ -3,10 +3,10 @@
   {
    "lastAccept": 1536894739, 
    "pos": 1, 
-   "score": 4411, 
+   "score": 4385, 
    "taskStats": {
     "QuickResponses": {
-     "points": 500, 
+     "points": 474, 
      "time": 1536878373
     }, 
     "aidemim": {
@@ -49,10 +49,14 @@
    "team": "Sons Of Catra"
   }, 
   {
-   "lastAccept": 1536852774, 
+   "lastAccept": 1536929800, 
    "pos": 2, 
-   "score": 3411, 
+   "score": 3885, 
    "taskStats": {
+    "QuickResponses": {
+     "points": 474, 
+     "time": 1536929800
+    }, 
     "aidemim": {
      "points": 474, 
      "time": 1536847503
