@@ -1,12 +1,56 @@
 {
  "standings": [
   {
-   "lastAccept": 1536852774, 
+   "lastAccept": 1536890206, 
    "pos": 1, 
-   "score": 3463, 
+   "score": 3937, 
+   "taskStats": {
+    "QuickResponses": {
+     "points": 500, 
+     "time": 1536878373
+    }, 
+    "aidemim": {
+     "points": 474, 
+     "time": 1536890206
+    }, 
+    "bonus_regras": {
+     "points": 406, 
+     "time": 1536787403
+    }, 
+    "bonus_site": {
+     "points": 474, 
+     "time": 1536787311
+    }, 
+    "bonus_tlgrm": {
+     "points": 394, 
+     "time": 1536775493
+    }, 
+    "glorious_ducks": {
+     "points": 420, 
+     "time": 1536723337
+    }, 
+    "impossible": {
+     "points": 363, 
+     "time": 1536724754
+    }, 
+    "recon": {
+     "points": 406, 
+     "time": 1536785447
+    }, 
+    "ticktock": {
+     "points": 500, 
+     "time": 1536839500
+    }
+   }, 
+   "team": "Sons Of Catra"
+  }, 
+  {
+   "lastAccept": 1536852774, 
+   "pos": 2, 
+   "score": 3437, 
    "taskStats": {
     "aidemim": {
-     "points": 500, 
+     "points": 474, 
      "time": 1536847503
     }, 
     "bonus_regras": {
@@ -39,46 +83,6 @@
     }
    }, 
    "team": "Discipulos do Thoty"
-  }, 
-  {
-   "lastAccept": 1536878373, 
-   "pos": 2, 
-   "score": 3463, 
-   "taskStats": {
-    "QuickResponses": {
-     "points": 500, 
-     "time": 1536878373
-    }, 
-    "bonus_regras": {
-     "points": 406, 
-     "time": 1536787403
-    }, 
-    "bonus_site": {
-     "points": 474, 
-     "time": 1536787311
-    }, 
-    "bonus_tlgrm": {
-     "points": 394, 
-     "time": 1536775493
-    }, 
-    "glorious_ducks": {
-     "points": 420, 
-     "time": 1536723337
-    }, 
-    "impossible": {
-     "points": 363, 
-     "time": 1536724754
-    }, 
-    "recon": {
-     "points": 406, 
-     "time": 1536785447
-    }, 
-    "ticktock": {
-     "points": 500, 
-     "time": 1536839500
-    }
-   }, 
-   "team": "Sons Of Catra"
   }, 
   {
    "lastAccept": 1536804946, 
