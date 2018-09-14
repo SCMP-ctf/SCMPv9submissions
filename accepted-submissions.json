@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1536935984, 
+   "lastAccept": 1536938909, 
    "pos": 1, 
-   "score": 4838, 
+   "score": 5338, 
    "taskStats": {
     "QuickResponses": {
      "points": 474, 
@@ -28,6 +28,10 @@
     "glorious_ducks": {
      "points": 420, 
      "time": 1536724747
+    }, 
+    "i_am_root": {
+     "points": 500, 
+     "time": 1536938909
     }, 
     "impossible": {
      "points": 363, 
@@ -276,6 +280,7 @@
   "aidemim", 
   "the_user_deep_down", 
   "QuickResponses", 
-  "nao_olha_pro_lado"
+  "nao_olha_pro_lado", 
+  "i_am_root"
  ]
 }
