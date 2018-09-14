@@ -3,7 +3,7 @@
   {
    "lastAccept": 1536894739, 
    "pos": 1, 
-   "score": 4364, 
+   "score": 4338, 
    "taskStats": {
     "QuickResponses": {
      "points": 474, 
@@ -42,16 +42,16 @@
      "time": 1536894739
     }, 
     "ticktock": {
-     "points": 500, 
+     "points": 474, 
      "time": 1536839500
     }
    }, 
    "team": "Sons Of Catra"
   }, 
   {
-   "lastAccept": 1536929800, 
+   "lastAccept": 1536935260, 
    "pos": 2, 
-   "score": 3864, 
+   "score": 4338, 
    "taskStats": {
     "QuickResponses": {
      "points": 474, 
@@ -88,6 +88,10 @@
     "the_user_deep_down": {
      "points": 474, 
      "time": 1536848137
+    }, 
+    "ticktock": {
+     "points": 474, 
+     "time": 1536935260
     }
    }, 
    "team": "Discipulos do Thoty"
