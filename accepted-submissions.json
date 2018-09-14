@@ -3,14 +3,14 @@
   {
    "lastAccept": 1536894739, 
    "pos": 1, 
-   "score": 4385, 
+   "score": 4364, 
    "taskStats": {
     "QuickResponses": {
      "points": 474, 
      "time": 1536878373
     }, 
     "aidemim": {
-     "points": 474, 
+     "points": 453, 
      "time": 1536890206
     }, 
     "bonus_regras": {
@@ -51,14 +51,14 @@
   {
    "lastAccept": 1536929800, 
    "pos": 2, 
-   "score": 3885, 
+   "score": 3864, 
    "taskStats": {
     "QuickResponses": {
      "points": 474, 
      "time": 1536929800
     }, 
     "aidemim": {
-     "points": 474, 
+     "points": 453, 
      "time": 1536847503
     }, 
     "bonus_regras": {
@@ -93,8 +93,40 @@
    "team": "Discipulos do Thoty"
   }, 
   {
-   "lastAccept": 1536804946, 
+   "lastAccept": 1536932979, 
    "pos": 3, 
+   "score": 2442, 
+   "taskStats": {
+    "aidemim": {
+     "points": 453, 
+     "time": 1536932979
+    }, 
+    "bonus_regras": {
+     "points": 406, 
+     "time": 1536856599
+    }, 
+    "bonus_tlgrm": {
+     "points": 394, 
+     "time": 1536855311
+    }, 
+    "glorious_ducks": {
+     "points": 420, 
+     "time": 1536845488
+    }, 
+    "impossible": {
+     "points": 363, 
+     "time": 1536847459
+    }, 
+    "recon": {
+     "points": 406, 
+     "time": 1536854627
+    }
+   }, 
+   "team": "RTFM"
+  }, 
+  {
+   "lastAccept": 1536804946, 
+   "pos": 4, 
    "score": 1989, 
    "taskStats": {
     "bonus_regras": {
@@ -119,34 +151,6 @@
     }
    }, 
    "team": "CAPJr"
-  }, 
-  {
-   "lastAccept": 1536856599, 
-   "pos": 4, 
-   "score": 1989, 
-   "taskStats": {
-    "bonus_regras": {
-     "points": 406, 
-     "time": 1536856599
-    }, 
-    "bonus_tlgrm": {
-     "points": 394, 
-     "time": 1536855311
-    }, 
-    "glorious_ducks": {
-     "points": 420, 
-     "time": 1536845488
-    }, 
-    "impossible": {
-     "points": 363, 
-     "time": 1536847459
-    }, 
-    "recon": {
-     "points": 406, 
-     "time": 1536854627
-    }
-   }, 
-   "team": "RTFM"
   }, 
   {
    "lastAccept": 1536790054, 
