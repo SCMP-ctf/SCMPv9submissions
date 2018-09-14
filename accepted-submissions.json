@@ -1,8 +1,60 @@
 {
  "standings": [
   {
-   "lastAccept": 1536894739, 
+   "lastAccept": 1536935984, 
    "pos": 1, 
+   "score": 4838, 
+   "taskStats": {
+    "QuickResponses": {
+     "points": 474, 
+     "time": 1536929800
+    }, 
+    "aidemim": {
+     "points": 453, 
+     "time": 1536847503
+    }, 
+    "bonus_regras": {
+     "points": 406, 
+     "time": 1536787732
+    }, 
+    "bonus_site": {
+     "points": 474, 
+     "time": 1536852774
+    }, 
+    "bonus_tlgrm": {
+     "points": 394, 
+     "time": 1536759234
+    }, 
+    "glorious_ducks": {
+     "points": 420, 
+     "time": 1536724747
+    }, 
+    "impossible": {
+     "points": 363, 
+     "time": 1536724799
+    }, 
+    "nao_olha_pro_lado": {
+     "points": 500, 
+     "time": 1536935984
+    }, 
+    "recon": {
+     "points": 406, 
+     "time": 1536780570
+    }, 
+    "the_user_deep_down": {
+     "points": 474, 
+     "time": 1536848137
+    }, 
+    "ticktock": {
+     "points": 474, 
+     "time": 1536935260
+    }
+   }, 
+   "team": "Discipulos do Thoty"
+  }, 
+  {
+   "lastAccept": 1536894739, 
+   "pos": 2, 
    "score": 4338, 
    "taskStats": {
     "QuickResponses": {
@@ -47,54 +99,6 @@
     }
    }, 
    "team": "Sons Of Catra"
-  }, 
-  {
-   "lastAccept": 1536935260, 
-   "pos": 2, 
-   "score": 4338, 
-   "taskStats": {
-    "QuickResponses": {
-     "points": 474, 
-     "time": 1536929800
-    }, 
-    "aidemim": {
-     "points": 453, 
-     "time": 1536847503
-    }, 
-    "bonus_regras": {
-     "points": 406, 
-     "time": 1536787732
-    }, 
-    "bonus_site": {
-     "points": 474, 
-     "time": 1536852774
-    }, 
-    "bonus_tlgrm": {
-     "points": 394, 
-     "time": 1536759234
-    }, 
-    "glorious_ducks": {
-     "points": 420, 
-     "time": 1536724747
-    }, 
-    "impossible": {
-     "points": 363, 
-     "time": 1536724799
-    }, 
-    "recon": {
-     "points": 406, 
-     "time": 1536780570
-    }, 
-    "the_user_deep_down": {
-     "points": 474, 
-     "time": 1536848137
-    }, 
-    "ticktock": {
-     "points": 474, 
-     "time": 1536935260
-    }
-   }, 
-   "team": "Discipulos do Thoty"
   }, 
   {
    "lastAccept": 1536932979, 
@@ -271,6 +275,7 @@
   "ticktock", 
   "aidemim", 
   "the_user_deep_down", 
-  "QuickResponses"
+  "QuickResponses", 
+  "nao_olha_pro_lado"
  ]
 }
