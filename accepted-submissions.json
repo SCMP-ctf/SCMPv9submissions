@@ -1,9 +1,9 @@
 {
  "standings": [
   {
-   "lastAccept": 1536890206, 
+   "lastAccept": 1536894739, 
    "pos": 1, 
-   "score": 3937, 
+   "score": 4411, 
    "taskStats": {
     "QuickResponses": {
      "points": 500, 
@@ -37,6 +37,10 @@
      "points": 406, 
      "time": 1536785447
     }, 
+    "the_user_deep_down": {
+     "points": 474, 
+     "time": 1536894739
+    }, 
     "ticktock": {
      "points": 500, 
      "time": 1536839500
@@ -47,7 +51,7 @@
   {
    "lastAccept": 1536852774, 
    "pos": 2, 
-   "score": 3437, 
+   "score": 3411, 
    "taskStats": {
     "aidemim": {
      "points": 474, 
@@ -78,7 +82,7 @@
      "time": 1536780570
     }, 
     "the_user_deep_down": {
-     "points": 500, 
+     "points": 474, 
      "time": 1536848137
     }
    }, 
